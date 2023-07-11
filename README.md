@@ -29,6 +29,5 @@ These are descriptions for each of the 8 main functions and mathematical objects
 The two files that relate to the JUnit testing of this project are:
 - Calculator Classes Testing Document
 - Calculator Testing Class
-The testing class contains 230+ JUnit tests for the calculator's functions, ensuring that it has incredible functionality. The testing document gives short descriptions of every JUnit test that I ran.
 
-*_Please note that a GUI is being developed for this project to make it increase ease of use and accessibility for all users._*
+The testing class contains 230+ JUnit tests for the calculator's functions, ensuring that it has incredible functionality. The testing document gives short descriptions of every JUnit test that I ran.
